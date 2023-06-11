@@ -78,7 +78,6 @@ endmodule
 ### RTL realization
 ![image](https://user-images.githubusercontent.com/118343401/234768252-1d7bed46-75de-4ad8-b2d4-68da31c707a7.png)
 
-
 # Output:
 ### Timing Diagram
 ![image](https://user-images.githubusercontent.com/118343401/234768204-66208f56-7d29-4dff-baa8-fb431f2612db.png)
